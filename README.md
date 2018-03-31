@@ -17,6 +17,10 @@ Here are the names of problems which have been solved :-
 
 - Smallest multiple (Problem 5)
 
+- Sum square difference (Problem 6)
+
+- 10001st prime (Problem 7)
+
 ## Contribution
 
 Anyone can contribute with keeping these points in minds...
