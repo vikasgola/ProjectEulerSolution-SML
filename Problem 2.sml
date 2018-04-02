@@ -22,3 +22,5 @@ local
 in
   fun main(max) = start(0,1 , 0 ,max)
 end
+
+val ans = main(4000000)

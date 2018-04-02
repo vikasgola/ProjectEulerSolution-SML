@@ -1,7 +1,7 @@
 # ProjectEulerSolution
 
 Solution of problems from ProjectEuler in Standard ML(SML).
-Currently there are five problems solution other solutions will be uploaded soon or **You** can upload it.
+Currently there are 10 problems solution other solutions will be uploaded soon or **You** can upload it.
 
 ## Solved Problems
 
@@ -20,6 +20,12 @@ Here are the names of problems which have been solved :-
 - Sum square difference (Problem 6)
 
 - 10001st prime (Problem 7)
+
+- Largest product in a series (Problem 8)
+
+- Special Pythagorean triplet (Problem 9)
+
+- Summation of primes (Problem 10)
 
 ## Contribution
 

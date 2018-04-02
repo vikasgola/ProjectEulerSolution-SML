@@ -22,3 +22,5 @@ local
 in
   fun main(upto) = start(upto , 1)
 end
+
+val ans = main(20)

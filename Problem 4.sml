@@ -35,3 +35,5 @@ local
 in
     fun main(d) = start(pow(10 ,d)-1 , pow(10 ,d)-1)
 end
+
+val ans = main(3)

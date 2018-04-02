@@ -26,3 +26,5 @@ local
 in
     fun main(upto) = squaresum(upto ,0)*squaresum(upto ,0) - sumsquare(upto , 0)
 end
+
+val ans = main(100)

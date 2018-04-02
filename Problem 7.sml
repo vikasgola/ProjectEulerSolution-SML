@@ -29,3 +29,5 @@ local
 in
     fun main(numbered) = start(3 , numbered-1)
 end
+
+val ans = main(10001)
