@@ -1,38 +1,37 @@
 # ProjectEulerSolution
 
-Solution of problems from ProjectEuler in Standard ML(SML).
-Currently there are 10 problems solution other solutions will be uploaded soon or **You** can upload it.
+Solution of problems from **ProjectEuler** in Standard ML (SML).
 
 ## Solved Problems
 
-Here are the names of problems which have been solved :-
+#### The problems which have been solved are :
 
-- Multiples of 3 and 5 (Problem 1)
+- [Problem 1](Problem_1.sml): Multiples of 3 and 5
 
-- Even Fibonacci numbers (Problem 2)
+- [Problem 2](Problem_2.sml): Even Fibonacci numbers
 
-- Largest prime factor (Problem 3)
+- [Problem 3](Problem_3.sml): Largest prime factor
 
-- Largest palindrome product (Problem 4)
+- [Problem 4](Problem_4.sml): Largest palindrome product
 
-- Smallest multiple (Problem 5)
+- [Problem 5](Problem_5.sml): Smallest multiple
 
-- Sum square difference (Problem 6)
+- [Problem 6](Problem_6.sml): Sum square difference
 
-- 10001st prime (Problem 7)
+- [Problem 7](Problem_7.sml): 10001st prime
 
-- Largest product in a series (Problem 8)
+- [Problem 8](Problem_8.sml): Largest product in a series
 
-- Special Pythagorean triplet (Problem 9)
+- [Problem 9](Problem_9.sml): Special Pythagorean triplet
 
-- Summation of primes (Problem 10)
+- [Problem 10](Problem_10.sml): Summation of primes
 
 ## Contribution
 
-Anyone can contribute with keeping these points in minds...
+#### Anyone can contribute with keeping these points in minds...
 
-1. Problem solution should have name format --> "Problem (Problem number).sml"
+1. Problem solution should have the name in the following format : **"Problem_(Problem number).sml"**
 
-2. Solution should be in only standard ML language
+2. Solution should be only in standard ML language.
 
-3. Your solution should contain problem statement relevent to it.
+3. Your solution should also contain the relevant problem statement.
