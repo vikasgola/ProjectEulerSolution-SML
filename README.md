@@ -26,6 +26,14 @@ Solution of problems from **ProjectEuler** in Standard ML (SML).
 
 - [Problem 10](Problem_10.sml): Summation of primes
 
+- [Problem 11](Problem_11.sml): Largest product in a grid
+
+- [Problem 12](Problem_12.sml): Highly divisible triangular number
+
+- [Problem 13](Problem_13.sml): Large Sum
+
+- [Problem 14](Problem_14.sml): Longest Collatz sequence
+
 ## Contribution
 
 #### Anyone can contribute with keeping these points in minds...
